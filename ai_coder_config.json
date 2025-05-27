@@ -1,0 +1,24 @@
+{
+  "current_model": "deepseek-coder-v2:16b",
+  "models": {
+    "deepseek-coder-v2:16b": {
+      "pre_prompt": "You are an expert coding assistant...",
+      "context_window": 16384,
+      "temperature": 0.3,
+      "max_tokens": 4096
+    },
+    "llama3": {
+      "pre_prompt": "You are a helpful AI assistant...",
+      "context_window": 8000,
+      "temperature": 0.7,
+      "max_tokens": 2000,
+      "description": "General purpose AI assistant"
+    }
+  },
+  "ui": {
+    "font_size": 11,
+    "theme": "dark",
+    "animation_speed": 1.0,
+    "enable_animations": true
+  }
+}

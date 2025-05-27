@@ -1,0 +1,143 @@
+2025-05-18 23:44:13,244 - INFO - Initializing AI Coder Ultimate
+2025-05-18 23:44:13,245 - WARNING - Using default config: [Errno 2] No such file or directory: 'ai_coder_config.json'
+2025-05-18 23:44:13,245 - INFO - Configuration saved
+2025-05-18 23:44:13,817 - INFO - Audio services initialized
+2025-05-18 23:44:13,817 - INFO - Application initialized successfully
+2025-05-18 23:57:45,333 - INFO - Initializing AI Coder Ultimate
+2025-05-18 23:57:45,333 - INFO - Configuration loaded successfully
+2025-05-18 23:57:45,823 - INFO - Audio services initialized
+2025-05-18 23:57:45,823 - INFO - Application initialized successfully
+2025-05-18 23:57:48,685 - INFO - Configuration saved
+2025-05-18 23:57:48,685 - INFO - Changed model to llama3
+2025-05-18 23:58:07,663 - WARNING - Attempt to stop generation when none was active
+2025-05-19 12:48:50,782 - INFO - Initializing AI Coder Ultimate
+2025-05-19 12:48:50,790 - INFO - Configuration loaded successfully
+2025-05-19 12:48:51,479 - INFO - Audio services initialized
+2025-05-19 12:48:51,479 - INFO - Application initialized successfully
+2025-05-19 12:49:22,522 - INFO - Configuration saved
+2025-05-19 12:49:24,387 - INFO - Conversation context cleared
+2025-05-19 12:49:24,388 - INFO - Changed model to deepseek-coder-v2:16b
+2025-05-19 17:19:27,930 - INFO - Initializing AI Coder Ultimate
+2025-05-19 17:19:27,936 - INFO - Configuration loaded successfully
+2025-05-19 17:19:28,589 - INFO - Audio services initialized
+2025-05-19 17:19:28,589 - INFO - Application initialized successfully
+2025-05-19 17:49:04,981 - INFO - Initializing AI Coder Ultimate
+2025-05-19 18:10:53,279 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:03:35,642 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:04:08,832 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:04:15,086 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:05:13,925 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:05:13,925 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:05:13,925 - INFO - Configuration loaded successfully
+2025-05-19 23:13:33,419 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:13:33,419 - INFO - Configuration loaded successfully
+2025-05-19 23:13:33,419 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:13:33,651 - INFO - Speech Recognition initialized
+2025-05-19 23:13:34,845 - WARNING - listen_start.wav not found.
+2025-05-19 23:13:34,845 - WARNING - listen_stop.wav not found.
+2025-05-19 23:13:34,886 - INFO - Audio feedback disabled (sound files not found).
+2025-05-19 23:15:53,030 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:15:53,031 - INFO - Configuration loaded successfully
+2025-05-19 23:15:53,031 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:15:53,106 - INFO - Speech Recognition initialized
+2025-05-19 23:15:54,140 - WARNING - listen_start.wav not found.
+2025-05-19 23:15:54,140 - WARNING - listen_stop.wav not found.
+2025-05-19 23:15:54,171 - INFO - Audio feedback disabled (sound files not found).
+2025-05-19 23:16:05,234 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:16:05,234 - INFO - Configuration loaded successfully
+2025-05-19 23:16:05,234 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:16:05,314 - INFO - Speech Recognition initialized
+2025-05-19 23:16:06,263 - WARNING - listen_start.wav not found.
+2025-05-19 23:16:06,263 - WARNING - listen_stop.wav not found.
+2025-05-19 23:16:06,302 - INFO - Audio feedback disabled (sound files not found).
+2025-05-19 23:23:13,226 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:23:13,234 - INFO - Configuration loaded successfully
+2025-05-19 23:23:13,234 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:23:13,442 - INFO - Speech Recognition initialized
+2025-05-19 23:23:14,667 - WARNING - listen_start.wav not found.
+2025-05-19 23:23:14,668 - WARNING - listen_stop.wav not found.
+2025-05-19 23:23:14,699 - INFO - Audio feedback disabled (sound files not found).
+2025-05-19 23:23:16,053 - INFO - Application initialized successfully
+2025-05-19 23:29:44,001 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:29:44,002 - INFO - Configuration loaded successfully
+2025-05-19 23:29:44,003 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:29:44,217 - INFO - Speech Recognition initialized
+2025-05-19 23:29:45,840 - WARNING - listen_start.wav not found.
+2025-05-19 23:29:45,840 - WARNING - listen_stop.wav not found.
+2025-05-19 23:29:45,881 - INFO - Audio feedback disabled (sound files not found).
+2025-05-19 23:29:47,154 - INFO - Initial context limit set to 16384 for model deepseek-coder-v2:16b
+2025-05-19 23:29:47,155 - INFO - Application initialized successfully
+2025-05-19 23:30:35,337 - INFO - Attempting to change model to llama3
+2025-05-19 23:30:41,216 - INFO - Attempting to change model to llama3
+2025-05-19 23:33:02,910 - ERROR - Error: Ollama response timed out.
+2025-05-19 23:41:09,524 - INFO - Initializing AI Coder Ultimate
+2025-05-19 23:41:09,524 - INFO - Configuration loaded successfully
+2025-05-19 23:41:09,524 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:41:09,524 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-19 23:41:09,608 - INFO - Speech Recognition initialized
+2025-05-19 23:41:10,596 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-19 23:41:10,597 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-19 23:41:10,635 - INFO - Audio feedback disabled (sound files not found).
+2025-05-19 23:41:11,961 - INFO - Initial context limit set to 16384 for model deepseek-coder-v2:16b
+2025-05-19 23:41:11,962 - INFO - Application initialized successfully
+2025-05-19 23:41:35,998 - INFO - Settings dialog shown (simplified).
+2025-05-21 12:12:02,028 - INFO - Initializing AI Coder Ultimate
+2025-05-21 12:12:02,076 - INFO - Configuration loaded successfully
+2025-05-21 12:12:02,082 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 12:12:02,117 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 12:12:03,335 - INFO - Speech Recognition initialized
+2025-05-21 12:12:03,643 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-21 12:12:03,729 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-21 12:12:03,895 - INFO - Audio feedback disabled (sound files not found).
+2025-05-21 12:12:06,177 - INFO - Initial context limit set to 16384 for model deepseek-coder-v2:16b
+2025-05-21 12:12:06,222 - INFO - Application initialized successfully
+2025-05-21 15:52:21,249 - INFO - Initializing AI Coder Ultimate
+2025-05-21 15:52:21,258 - INFO - Configuration loaded successfully
+2025-05-21 15:52:21,259 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 15:52:21,259 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 15:52:21,467 - INFO - Speech Recognition initialized
+2025-05-21 15:52:21,519 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-21 15:52:21,520 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-21 15:52:21,554 - INFO - Audio feedback disabled (sound files not found).
+2025-05-21 15:52:23,163 - INFO - Initial context limit set to 16384 for model deepseek-coder-v2:16b
+2025-05-21 15:52:23,164 - INFO - Application initialized successfully
+2025-05-21 16:19:11,702 - INFO - Initializing AI Coder Ultimate
+2025-05-21 16:19:11,703 - INFO - Configuration loaded successfully
+2025-05-21 16:19:11,703 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 16:19:11,704 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 16:19:11,890 - INFO - Speech Recognition initialized
+2025-05-21 16:19:11,931 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-21 16:19:11,931 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-21 16:19:11,961 - INFO - Audio feedback disabled (sound files not found).
+2025-05-21 16:19:33,414 - INFO - Initializing AI Coder Ultimate
+2025-05-21 16:19:33,437 - INFO - Configuration loaded successfully
+2025-05-21 16:19:33,467 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 16:19:33,582 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 16:19:34,742 - INFO - Speech Recognition initialized
+2025-05-21 16:19:35,024 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-21 16:19:35,024 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-21 16:19:35,262 - INFO - Audio feedback disabled (sound files not found).
+2025-05-21 17:44:43,376 - INFO - Initializing AI Coder Ultimate
+2025-05-21 17:44:43,388 - INFO - Configuration loaded successfully
+2025-05-21 17:44:43,388 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 17:44:43,388 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 17:44:43,589 - INFO - Speech Recognition initialized
+2025-05-21 17:44:43,624 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-21 17:44:43,624 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-21 17:44:43,656 - INFO - Audio feedback disabled (sound files not found).
+2025-05-21 18:07:28,828 - INFO - Initializing AI Coder Ultimate
+2025-05-21 18:07:28,829 - INFO - Configuration loaded successfully
+2025-05-21 18:07:28,829 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 18:07:28,830 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-21 18:07:28,992 - INFO - Speech Recognition initialized
+2025-05-21 18:07:29,017 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-21 18:07:29,017 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-21 18:07:29,048 - INFO - Audio feedback disabled (sound files not found).
+2025-05-27 08:32:54,290 - INFO - Initializing AI Coder Ultimate
+2025-05-27 08:32:54,297 - INFO - Configuration loaded successfully
+2025-05-27 08:32:54,298 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-27 08:32:54,298 - WARNING - Could not create custom Smooth progressbar style. Using default TProgressbar appearance. (hborder.png missing?)
+2025-05-27 08:32:54,450 - INFO - Speech Recognition initialized
+2025-05-27 08:32:54,481 - WARNING - c:\Users\aboby\deepseekCoder\listen_start.wav not found.
+2025-05-27 08:32:54,482 - WARNING - c:\Users\aboby\deepseekCoder\listen_stop.wav not found.
+2025-05-27 08:32:54,507 - INFO - Audio feedback disabled (sound files not found).
